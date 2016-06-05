@@ -474,7 +474,8 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0; }
+  margin: 0; 
+  background:red !important;}
 
 /* ==========================================================================
    Links
